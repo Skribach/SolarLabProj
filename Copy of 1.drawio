@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T09:19:27.485Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.41 YaBrowser/21.2.0.1097 Yowser/2.5 Safari/537.36" etag="8fy_H8Ruf6s5Hx9UzlIJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T10:05:26.124Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.41 YaBrowser/21.2.0.1097 Yowser/2.5 Safari/537.36" etag="rmrInmfoJocH2rpKOUIB" version="14.2.7" type="github">
   <diagram id="RwQuHI2duhZgIkpO_1kY" name="Page-1">
-    <mxGraphModel dx="1673" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,76 +17,76 @@
           <mxGeometry x="240" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="670" y="30" width="180" height="610" as="geometry" />
+          <mxGeometry x="870" y="30" width="180" height="610" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-1" value="Объявление&lt;br&gt;Ad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-2" value="int Id" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="90" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="90" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-3" value="string Title&lt;br&gt;заголовок" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="140" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="140" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-4" value="User UserOwner&lt;br&gt;владелец объявления" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="680" y="190" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="190" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-5" value="DateTime CreatedAt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-6" value="DateTime UpdatedAt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="290" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-7" value="String Description&lt;br&gt;описание объявления" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-8" value="id CategoryId&lt;br&gt;описание объявления" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="390" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="390" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-9" value="decimal Price" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="440" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-10" value="enum Statuses status" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="490" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="490" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-11" value="int Views&lt;br&gt;количество просмотров" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="540" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="540" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-13" value="list&amp;lt;String&amp;gt;&amp;nbsp; PhotoUrl" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="590" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="590" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-19" value="Created" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="480" width="100" height="20" as="geometry" />
+          <mxGeometry x="1060" y="480" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-20" value="Closed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="520" width="100" height="20" as="geometry" />
+          <mxGeometry x="1060" y="520" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-22" value="Complited" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="500" width="100" height="20" as="geometry" />
+          <mxGeometry x="1060" y="500" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="910" y="30" width="180" height="360" as="geometry" />
+          <mxGeometry x="1070" y="30" width="180" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-29" value="Сообщения&lt;br&gt;Message" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-30" value="int Id" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="90" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="90" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-31" value="User FromUser" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="140" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="140" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-32" value="int AdId" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="920" y="190" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="190" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-33" value="DateTime Created" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-35" value="String Text" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="290" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-41" value="Bool IsReaded" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbB5KMWNoqeULvBB3U-G-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="180" height="560" as="geometry" />
@@ -149,19 +149,70 @@
           <mxGeometry x="240" y="690" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B4RUf_Frpo3tljozMKp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="30" width="180" height="210" as="geometry" />
+          <mxGeometry x="1270" y="30" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7B4RUf_Frpo3tljozMKp-3" value="Категория&lt;br&gt;Category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="1280" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B4RUf_Frpo3tljozMKp-4" value="int Id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="90" width="160" height="40" as="geometry" />
+          <mxGeometry x="1280" y="90" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B4RUf_Frpo3tljozMKp-5" value="String Title" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="140" width="160" height="40" as="geometry" />
+          <mxGeometry x="1280" y="140" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B4RUf_Frpo3tljozMKp-6" value="String Description" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="190" width="160" height="40" as="geometry" />
+          <mxGeometry x="1280" y="190" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="30" width="180" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-8" value="Пользователь&lt;br&gt;User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-9" value="int Id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-10" value="String UserName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-11" value="String Password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-12" value="String Mail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="190" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-13" value="DateTime RegisteredAt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-14" value="String Description&lt;br&gt;описание объявления" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-15" value="id CategoryId&lt;br&gt;описание объявления" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="590" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-16" value="decimal Price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-17" value="enum Statuses status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="690" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-18" value="int Views&lt;br&gt;количество просмотров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-19" value="list&amp;lt;String&amp;gt;&amp;nbsp; PhotoUrl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="790" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-20" value="String FirstName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-21" value="String MiddleName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-22" value="String LastName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B4RUf_Frpo3tljozMKp-23" value="String Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="540" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
